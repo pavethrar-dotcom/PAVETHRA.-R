@@ -1,0 +1,201 @@
+Entrepreneur_ID,City,Business_Type,AI_Tool_Used,AI_Usage_Frequency_1_5,Digital_Marketing_Skill_1_5,Content_Quality_Score_1_5,Social_Media_Engagement_Rate,Lead_Generation_Score,Sales_Growth_Percent
+1,Chennai,Beauty & Wellness,ChatGPT,4,4,4.0,94.0,74.0,58.2
+2,Chennai,Education,Gemini,5,3,3.7,100.0,55.0,46.0
+3,Chennai,Food Processing,ChatGPT,2,2,1.0,55.0,15.0,15.6
+4,Chennai,Education,ChatGPT,4,2,3.4,83.0,43.0,37.0
+5,Chennai,Education,Canva AI,2,3,1.6,54.0,31.0,15.4
+6,Chennai,Fashion,Gemini,3,3,2.2,57.0,20.0,29.7
+7,Chennai,Food Processing,Gemini,1,5,3.0,44.0,26.0,13.2
+8,Chennai,Food Processing,Canva AI,3,5,3.4,89.0,52.0,34.2
+9,Chennai,Food Processing,Copilot,4,2,3.1,86.0,53.0,41.7
+10,Chennai,Education,ChatGPT,2,4,4.4,100.0,62.0,44.0
+11,Chennai,Beauty & Wellness,Multiple Tools,2,2,1.7,29.0,10.0,10.0
+12,Chennai,Food Processing,ChatGPT,5,4,3.8,100.0,53.0,36.7
+13,Chennai,Retail,ChatGPT,2,4,3.1,86.0,52.0,29.6
+14,Chennai,Education,Copilot,5,5,4.5,100.0,55.0,49.6
+15,Chennai,Fashion,ChatGPT,1,1,1.0,22.0,20.0,24.9
+16,Chennai,Beauty & Wellness,Canva AI,4,1,2.7,69.0,42.0,30.7
+17,Chennai,Retail,Canva AI,5,3,4.0,100.0,75.0,51.0
+18,Chennai,Retail,Gemini,1,5,3.0,59.0,42.0,17.4
+19,Chennai,Fashion,Multiple Tools,2,4,3.1,75.0,54.0,26.8
+20,Chennai,Beauty & Wellness,ChatGPT,2,1,2.6,58.0,36.0,32.0
+21,Chennai,Education,ChatGPT,1,4,2.3,63.0,39.0,31.0
+22,Chennai,Handicrafts,Copilot,2,1,1.6,44.0,40.0,28.9
+23,Chennai,Beauty & Wellness,Canva AI,1,1,1.6,33.0,17.0,10.2
+24,Chennai,Fashion,Multiple Tools,5,1,3.3,100.0,64.0,60.0
+25,Chennai,Retail,Gemini,5,5,4.7,100.0,58.0,49.9
+26,Chennai,Education,Canva AI,1,2,2.1,48.0,27.0,22.9
+27,Chennai,Beauty & Wellness,Gemini,5,4,3.9,100.0,51.0,42.9
+28,Chennai,Handicrafts,Copilot,5,5,4.8,100.0,54.0,47.2
+29,Chennai,Handicrafts,Copilot,5,5,4.5,99.0,52.0,39.8
+30,Chennai,Food Processing,ChatGPT,3,5,4.4,100.0,65.0,47.6
+31,Chennai,Food Processing,Multiple Tools,4,5,5.0,100.0,68.0,51.0
+32,Chennai,Fashion,Gemini,2,5,3.7,82.0,48.0,27.5
+33,Chennai,Beauty & Wellness,Canva AI,3,3,3.1,94.0,58.0,36.6
+34,Chennai,Beauty & Wellness,Copilot,5,4,3.9,100.0,59.0,57.6
+35,Chennai,Retail,ChatGPT,1,5,2.5,64.0,32.0,29.9
+36,Chennai,Retail,ChatGPT,5,4,3.7,100.0,67.0,52.4
+37,Chennai,Retail,Gemini,4,3,2.0,61.0,42.0,37.3
+38,Chennai,Food Processing,Copilot,5,3,3.7,91.0,39.0,41.5
+39,Chennai,Beauty & Wellness,Multiple Tools,1,4,2.3,42.0,23.0,16.2
+40,Chennai,Beauty & Wellness,Copilot,4,1,4.0,97.0,51.0,33.1
+41,Chennai,Handicrafts,Gemini,5,2,4.6,100.0,57.0,50.6
+42,Chennai,Food Processing,Gemini,4,1,2.9,88.0,47.0,29.1
+43,Chennai,Education,Copilot,2,1,3.0,71.0,42.0,25.3
+44,Chennai,Food Processing,Gemini,2,1,2.5,68.0,38.0,29.5
+45,Chennai,Education,Copilot,5,5,3.6,100.0,57.0,51.5
+46,Chennai,Handicrafts,Canva AI,4,3,4.2,100.0,69.0,46.4
+47,Chennai,Fashion,Copilot,1,1,1.5,19.0,16.0,9.7
+48,Chennai,Beauty & Wellness,Copilot,5,3,3.8,100.0,54.0,44.0
+49,Chennai,Handicrafts,Gemini,2,4,2.0,45.0,23.0,19.0
+50,Chennai,Beauty & Wellness,Gemini,2,2,2.4,68.0,45.0,30.4
+51,Chennai,Retail,ChatGPT,5,4,3.0,100.0,64.0,55.3
+52,Chennai,Fashion,ChatGPT,4,4,4.0,93.0,51.0,38.9
+53,Chennai,Fashion,Canva AI,2,5,3.1,79.0,46.0,32.9
+54,Chennai,Handicrafts,ChatGPT,4,2,2.1,62.0,52.0,44.5
+55,Chennai,Fashion,Copilot,2,4,3.8,79.0,43.0,30.5
+56,Chennai,Education,Gemini,2,4,3.0,71.0,58.0,35.7
+57,Chennai,Fashion,ChatGPT,3,2,2.6,71.0,51.0,38.4
+58,Chennai,Beauty & Wellness,ChatGPT,2,2,2.6,61.0,50.0,36.8
+59,Chennai,Beauty & Wellness,Canva AI,1,4,2.5,39.0,18.0,17.2
+60,Chennai,Beauty & Wellness,Canva AI,5,2,3.8,100.0,59.0,58.6
+61,Chennai,Beauty & Wellness,Copilot,5,4,5.0,100.0,56.0,43.0
+62,Chennai,Education,Gemini,4,4,4.4,79.0,56.0,41.8
+63,Chennai,Food Processing,Canva AI,2,5,3.7,89.0,49.0,24.4
+64,Chennai,Retail,ChatGPT,1,1,2.2,57.0,40.0,28.7
+65,Chennai,Handicrafts,Gemini,4,4,4.9,100.0,65.0,46.8
+66,Chennai,Beauty & Wellness,Gemini,3,3,2.9,69.0,41.0,33.5
+67,Chennai,Fashion,ChatGPT,4,1,1.9,52.0,42.0,34.0
+68,Chennai,Beauty & Wellness,Canva AI,4,1,2.9,99.0,60.0,44.4
+69,Chennai,Fashion,ChatGPT,2,1,1.7,56.0,40.0,34.1
+70,Chennai,Retail,Gemini,3,5,5.0,100.0,56.0,43.5
+71,Chennai,Retail,Multiple Tools,4,4,4.7,100.0,54.0,42.4
+72,Chennai,Retail,Multiple Tools,1,5,3.5,83.0,56.0,35.8
+73,Chennai,Fashion,Copilot,1,4,2.5,52.0,35.0,25.4
+74,Chennai,Beauty & Wellness,ChatGPT,5,5,4.4,100.0,62.0,49.0
+75,Chennai,Retail,ChatGPT,3,5,3.9,90.0,51.0,30.2
+76,Chennai,Education,Copilot,3,3,3.3,74.0,57.0,36.0
+77,Chennai,Fashion,Copilot,5,5,3.8,100.0,51.0,38.8
+78,Chennai,Fashion,Copilot,4,2,3.9,98.0,49.0,46.3
+79,Chennai,Beauty & Wellness,Gemini,3,3,4.4,91.0,62.0,49.7
+80,Chennai,Fashion,ChatGPT,1,5,1.6,27.0,23.0,23.4
+81,Chennai,Fashion,Gemini,1,1,1.0,16.0,12.0,0.0
+82,Chennai,Retail,Copilot,2,2,2.2,62.0,35.0,30.9
+83,Chennai,Beauty & Wellness,ChatGPT,3,2,2.1,58.0,39.0,42.6
+84,Chennai,Retail,Gemini,4,2,3.2,100.0,74.0,58.6
+85,Chennai,Retail,Gemini,5,3,3.9,100.0,80.0,49.2
+86,Chennai,Beauty & Wellness,Copilot,5,5,4.3,100.0,47.0,52.3
+87,Chennai,Handicrafts,ChatGPT,4,5,5.0,100.0,57.0,44.7
+88,Chennai,Retail,Copilot,2,1,1.8,41.0,21.0,17.3
+89,Chennai,Education,ChatGPT,5,1,2.6,63.0,51.0,47.8
+90,Chennai,Education,Multiple Tools,3,2,3.6,76.0,26.0,19.8
+91,Chennai,Fashion,Canva AI,2,1,1.1,35.0,25.0,20.5
+92,Chennai,Education,Canva AI,3,3,2.1,57.0,32.0,36.1
+93,Chennai,Fashion,Canva AI,1,5,3.1,71.0,56.0,35.1
+94,Chennai,Handicrafts,Copilot,2,2,2.2,52.0,43.0,29.8
+95,Chennai,Beauty & Wellness,Multiple Tools,5,1,3.4,100.0,63.0,51.9
+96,Chennai,Beauty & Wellness,ChatGPT,2,3,3.0,83.0,37.0,20.6
+97,Chennai,Beauty & Wellness,Gemini,2,3,2.9,65.0,34.0,24.3
+98,Chennai,Education,ChatGPT,2,1,1.8,52.0,27.0,13.3
+99,Chennai,Handicrafts,Gemini,2,5,3.1,52.0,21.0,23.6
+100,Chennai,Education,ChatGPT,3,1,1.5,47.0,37.0,19.6
+101,Chennai,Education,Multiple Tools,1,2,2.0,31.0,7.0,11.8
+102,Chennai,Handicrafts,Gemini,4,1,2.7,78.0,63.0,52.4
+103,Chennai,Handicrafts,Copilot,2,3,3.1,72.0,59.0,44.1
+104,Chennai,Handicrafts,ChatGPT,5,1,1.8,70.0,39.0,39.9
+105,Chennai,Handicrafts,ChatGPT,2,5,3.1,65.0,42.0,33.6
+106,Chennai,Beauty & Wellness,Gemini,5,4,5.0,100.0,59.0,48.7
+107,Chennai,Food Processing,Copilot,3,1,2.4,52.0,38.0,25.1
+108,Chennai,Food Processing,Copilot,5,5,5.0,100.0,70.0,60.0
+109,Chennai,Handicrafts,Multiple Tools,4,5,5.0,100.0,62.0,46.5
+110,Chennai,Food Processing,Copilot,1,3,3.5,63.0,42.0,18.0
+111,Chennai,Food Processing,Copilot,5,5,5.0,100.0,55.0,45.2
+112,Chennai,Handicrafts,Copilot,5,5,3.9,100.0,63.0,49.4
+113,Chennai,Food Processing,Canva AI,1,5,2.2,56.0,35.0,23.8
+114,Chennai,Education,Multiple Tools,4,5,3.4,83.0,43.0,49.2
+115,Chennai,Fashion,ChatGPT,2,2,1.5,43.0,26.0,23.6
+116,Chennai,Fashion,Gemini,5,2,3.5,100.0,57.0,49.5
+117,Chennai,Handicrafts,ChatGPT,1,3,2.2,54.0,28.0,30.3
+118,Chennai,Beauty & Wellness,Multiple Tools,3,1,1.0,52.0,22.0,27.9
+119,Chennai,Handicrafts,Gemini,1,5,1.7,46.0,28.0,19.3
+120,Chennai,Beauty & Wellness,Multiple Tools,3,1,1.5,57.0,28.0,23.6
+121,Chennai,Fashion,Copilot,4,1,3.1,84.0,47.0,41.1
+122,Chennai,Handicrafts,Gemini,2,3,3.3,74.0,53.0,34.2
+123,Chennai,Retail,Copilot,1,5,4.2,85.0,56.0,32.5
+124,Chennai,Education,ChatGPT,5,5,5.0,100.0,52.0,52.6
+125,Chennai,Food Processing,ChatGPT,4,4,4.6,100.0,63.0,44.8
+126,Chennai,Beauty & Wellness,Gemini,1,1,1.7,39.0,24.0,18.6
+127,Chennai,Retail,Gemini,5,1,2.7,80.0,62.0,55.7
+128,Chennai,Food Processing,Multiple Tools,1,2,1.8,41.0,36.0,18.7
+129,Chennai,Food Processing,Multiple Tools,3,4,4.0,80.0,36.0,25.9
+130,Chennai,Handicrafts,Copilot,1,2,1.0,51.0,37.0,21.7
+131,Chennai,Food Processing,Gemini,1,2,2.6,46.0,38.0,20.7
+132,Chennai,Education,ChatGPT,1,2,1.5,30.0,22.0,20.8
+133,Chennai,Retail,Multiple Tools,4,3,3.6,85.0,48.0,35.0
+134,Chennai,Food Processing,Multiple Tools,1,3,1.3,37.0,42.0,25.3
+135,Chennai,Handicrafts,ChatGPT,5,2,3.0,87.0,57.0,60.0
+136,Chennai,Education,Multiple Tools,3,4,2.0,47.0,44.0,36.1
+137,Chennai,Fashion,Copilot,3,1,2.0,64.0,49.0,39.4
+138,Chennai,Retail,Gemini,1,4,4.3,92.0,59.0,39.3
+139,Chennai,Food Processing,ChatGPT,4,5,3.8,96.0,53.0,40.2
+140,Chennai,Handicrafts,Gemini,4,3,5.0,100.0,60.0,40.6
+141,Chennai,Fashion,Multiple Tools,5,1,4.0,100.0,58.0,49.9
+142,Chennai,Fashion,Multiple Tools,1,1,1.0,28.0,7.0,8.8
+143,Chennai,Beauty & Wellness,ChatGPT,3,5,4.0,80.0,53.0,30.4
+144,Chennai,Education,Copilot,4,5,4.4,100.0,73.0,54.4
+145,Chennai,Food Processing,Canva AI,1,2,2.7,47.0,26.0,22.3
+146,Chennai,Handicrafts,ChatGPT,4,3,3.9,100.0,77.0,49.9
+147,Chennai,Beauty & Wellness,Canva AI,4,3,4.3,100.0,48.0,42.2
+148,Chennai,Education,Canva AI,3,4,3.8,100.0,68.0,50.5
+149,Chennai,Beauty & Wellness,Copilot,2,2,1.9,27.0,30.0,25.9
+150,Chennai,Retail,Canva AI,5,2,3.7,89.0,52.0,49.4
+151,Chennai,Education,Canva AI,5,2,3.2,100.0,59.0,48.3
+152,Chennai,Education,Copilot,3,2,1.5,51.0,39.0,25.9
+153,Chennai,Food Processing,Canva AI,4,3,4.1,100.0,64.0,45.8
+154,Chennai,Education,Canva AI,1,3,1.0,30.0,5.0,3.6
+155,Chennai,Beauty & Wellness,Canva AI,4,2,2.8,80.0,41.0,36.1
+156,Chennai,Education,ChatGPT,3,4,3.2,96.0,57.0,46.0
+157,Chennai,Food Processing,ChatGPT,5,1,3.5,100.0,49.0,37.9
+158,Chennai,Food Processing,ChatGPT,4,1,3.6,91.0,51.0,42.2
+159,Chennai,Retail,Copilot,5,4,5.0,100.0,49.0,39.2
+160,Chennai,Beauty & Wellness,Multiple Tools,1,2,2.0,19.0,8.0,4.3
+161,Chennai,Fashion,Canva AI,5,3,3.6,95.0,54.0,49.8
+162,Chennai,Fashion,Canva AI,5,1,2.9,75.0,48.0,38.1
+163,Chennai,Education,Copilot,2,5,3.3,99.0,59.0,41.2
+164,Chennai,Retail,Canva AI,2,5,3.2,65.0,43.0,22.7
+165,Chennai,Handicrafts,ChatGPT,2,4,2.7,56.0,37.0,29.8
+166,Chennai,Education,Multiple Tools,5,2,3.2,77.0,54.0,39.3
+167,Chennai,Retail,Gemini,3,1,1.7,49.0,36.0,26.9
+168,Chennai,Beauty & Wellness,Canva AI,5,2,4.2,100.0,66.0,60.0
+169,Chennai,Beauty & Wellness,ChatGPT,3,1,1.3,62.0,62.0,51.5
+170,Chennai,Beauty & Wellness,Gemini,3,4,3.0,77.0,49.0,34.4
+171,Chennai,Beauty & Wellness,Multiple Tools,2,4,1.9,48.0,50.0,34.9
+172,Chennai,Beauty & Wellness,Gemini,4,5,5.0,100.0,63.0,53.5
+173,Chennai,Retail,ChatGPT,1,2,1.0,33.0,19.0,16.9
+174,Chennai,Retail,Gemini,2,5,4.0,81.0,46.0,29.6
+175,Chennai,Food Processing,Copilot,2,2,2.3,62.0,49.0,28.8
+176,Chennai,Fashion,Gemini,4,5,5.0,100.0,73.0,56.8
+177,Chennai,Beauty & Wellness,Canva AI,1,3,1.9,46.0,32.0,25.7
+178,Chennai,Handicrafts,Canva AI,5,3,3.3,92.0,64.0,60.0
+179,Chennai,Retail,Copilot,5,3,2.9,78.0,37.0,30.1
+180,Chennai,Handicrafts,ChatGPT,2,3,1.0,29.0,5.0,4.2
+181,Chennai,Handicrafts,Canva AI,1,1,1.1,32.0,29.0,24.3
+182,Chennai,Handicrafts,Multiple Tools,2,3,3.0,53.0,31.0,15.7
+183,Chennai,Food Processing,Canva AI,3,4,3.8,98.0,65.0,50.7
+184,Chennai,Retail,Canva AI,2,4,1.9,50.0,24.0,18.9
+185,Chennai,Handicrafts,ChatGPT,2,1,2.2,52.0,44.0,27.4
+186,Chennai,Beauty & Wellness,Gemini,5,3,3.5,91.0,42.0,42.0
+187,Chennai,Education,Canva AI,5,3,3.4,91.0,44.0,35.3
+188,Chennai,Handicrafts,Copilot,5,3,3.5,100.0,72.0,60.0
+189,Chennai,Food Processing,Gemini,3,5,4.1,94.0,36.0,38.4
+190,Chennai,Retail,Multiple Tools,5,2,2.5,75.0,48.0,48.4
+191,Chennai,Food Processing,ChatGPT,1,5,3.0,66.0,39.0,22.3
+192,Chennai,Handicrafts,Multiple Tools,4,2,3.3,92.0,49.0,32.8
+193,Chennai,Retail,Gemini,1,3,2.8,45.0,25.0,9.0
+194,Chennai,Education,Gemini,1,3,2.1,51.0,24.0,9.4
+195,Chennai,Handicrafts,Gemini,5,5,4.1,100.0,72.0,55.9
+196,Chennai,Food Processing,Multiple Tools,4,5,4.6,100.0,74.0,53.6
+197,Chennai,Fashion,Gemini,4,2,2.3,52.0,26.0,33.3
+198,Chennai,Beauty & Wellness,Multiple Tools,4,4,3.2,87.0,54.0,34.0
+199,Chennai,Food Processing,Gemini,3,2,1.5,30.0,7.0,22.1
+200,Chennai,Retail,Copilot,5,5,3.7,100.0,69.0,58.0
